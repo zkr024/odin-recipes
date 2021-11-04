@@ -16,5 +16,12 @@ That Repo that we create in Github will be used here
 2. use the command - git clone "paste the address we copied in Github" and press Enter
 3. It will create a folder with the name we gave the project in Github
 4. We cd into that folder
-5. We use the readme file to leave notes
+
+////We will be using the README.md file to leave notes///
+* git staus - to check if the filed is staged
+* If showing in red it is not staged
+* git add - will add the file to the staging area
+* Will show the file in green after using git status again
+* git commit -m "the name of the file" will commit the changes
+
 
